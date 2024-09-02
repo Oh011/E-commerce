@@ -1,0 +1,107 @@
+{
+
+    "navbar":{
+    
+        "home":"الرئيسه",
+        "products":"المنتجات",
+        "categories":"الاقسام",
+        "brands":"العلامات التجاريه",
+        "signout":"تسجيل الخروج",
+        "wishlist":"قائمة الرغبات",
+        "lang":"لغه"
+    },
+    
+    "home":{
+        
+        "Popular categories":"اشهر الاقسام",
+        "Shop Popular Products":"اشهر منتجات المتجر",
+        "Add To Cart":"أضف إلى السلة",
+        "Remove":"إزالة",
+        "Price":"السعر"
+
+    },
+
+    "auth":{
+
+        "Register Now":"سجل الآن",
+        "Log In":"تسجيل الدخول",
+        "Register":"تسجيل",
+        "Email":" البريدإلكتروني",
+        "Password":"كلمة المرور",
+        "Forgot Your password ?":"نسيت كلمة المرور الخاصة بك ؟ ",
+        "Name":"الاسم",
+        "Repassword":"إعادة كلمة المرور",
+        "Phone":"هاتف"
+
+
+
+        
+
+
+
+    },
+
+    "order":{
+
+        "Details":"التفاصيل",
+        "Phone":"الهاتف",
+        "city":"المدينه",
+        "Order Details":"تفاصيل الطلب"
+    },
+
+
+    "cart":{
+
+
+        "Shop Cart":"عربة التسوق",
+        "Total Price":"السعر الاجمالي",
+        "Check Out":"الدفع"
+
+    },
+
+    "Forget Passowrd":{
+
+        "Forgot Passowrd":"نسيان كلمه المرور",
+        "Email":"البريدإلكتروني",
+        "Reset Code":"كود إعادة تعيين",
+        "New Password":"كلمه المرور الجديده",
+        "Verify":"تأكيد",
+        "Code":"الكود",
+        "Reset Password":"إعادة تعيين كلمة المرور"
+
+    },
+
+
+    "wishlist":{
+
+
+        "My Wish List":"قائمة رغباتي"
+    },
+    
+    "brands":{
+
+
+        "All Brands":"كل العلامات التجاريه"
+    },
+
+    "slider":{
+        "Home": "الصفحة الرئيسية",
+        "Books": "الكتب",
+        "Music": "الموسيقى",
+        "Beauty & Health": "الجمال والصحة",
+        "SuperMarket": "السوبر ماركت"
+    },
+    
+    
+    "footer":{
+
+        "Get The FreshCart App":"احصل على تطبيق FreshCart",
+        "We Will Send You a Link, Open it on Your Phone to download the app":"سنرسل لك رابطًا، افتحه على هاتفك لتنزيل التطبيق",
+        "Payment partners":"شركاء الدفع",
+        "Get Deliveries with FreshCart":"احصل على عمليات التسليم مع FreshCart",
+        "Share App Link":"مشاركة رابط التطبيق"
+
+    }
+
+
+}

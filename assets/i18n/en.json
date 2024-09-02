@@ -1,0 +1,107 @@
+
+
+{
+
+
+    "navbar":{
+
+        "home":"Home",
+        "products":"products",
+        "categories":"categories",
+        "brands":"Brands",
+        "signout":"SignOut",
+        "wishlist":"Wish List",
+        "lang":"Lang"
+    },
+
+    
+    "cart":{
+
+
+        "Shop Cart":"Shop Cart",
+        "Total Price":"Total price",
+        "Check Out":"Check Out"
+    },
+
+
+    "order":{
+
+        "Details":"Details",
+        "Phone":"Phone",
+        "city":"City",
+        "Order Details":"Order Details"
+    },
+
+
+    "Forget Passowrd":{
+
+        "Forgot Passowrd":"Forgot Passowrd",
+        "Email":"Email",
+        "Reset Code":"Reset Code",
+        "New Password":"New Password",
+        "Verify":"Verify",
+        "Code":"Code",
+        "Reset Password":"Reset Password"
+    },
+
+    "auth":{
+
+        "Register Now":"Register Now",
+        "Log In":"Log In",
+        "Register":"Register",
+        "Email":"email",
+        "Password":"password",
+        "Forgot Your password ?":"Forget Your password?",
+        "Name":"Name",
+        "Repassword":"Repassword",
+        "Phone":"phone"
+
+
+    },
+
+
+        "home":{
+        
+            "Popular categories":"Popular Categories",
+            "Shop Popular Products":"Shop Popular Products",
+            "Add To Cart":"Add to cart",
+            "Remove":"Remove",
+            "Price":"Price"
+    
+        },
+
+        "wishlist":{
+
+
+            "My Wish List":"My Wish List"
+        },
+
+        "brands":{
+
+
+            "All Brands":"All Brands"
+        },
+
+
+        "slider":{
+
+            "Home":"Home",
+            "Books":"Books",
+            "Music":"Music",
+            "Beauty & Health":"Beauty & Health",
+            "SuperMarket":"SuperMarket"
+        },
+
+        "footer":{
+
+            "Get The FreshCart App":"Get The FreshCart App",
+            "We Will Send You a Link, Open it on Your Phone to download the app":"We Will Send You a Link, Open it on Your Phone to download the app",
+            "Payment partners":"Payment partners",
+            "Get Deliveries with FreshCart":"Get Deliveries with FreshCart",
+            "Share App Link":"Share App Link"
+
+
+        }
+
+    
+}
